@@ -27,6 +27,6 @@ For get the images for each grid element you should use the [IIIF Image API 2.0]
 For **Art Detail Screen** you need consume _"api_link": "https://api.artic.edu/api/v1/artworks/{id}"_ or reuse the data obtained in the first api. See [Screen Hints](https://www.figma.com/proto/3jlSaJ8v0TBpJq3cQL3XrQ/Infinity-art?node-id=23%3A101&scaling=min-zoom&page-id=1%3A4&starting-point-node-id=23%3A101)
 
 ```bash
-    [GET]
-    https://api.artic.edu/api/v1/artworks/{id}
+[GET]
+https://api.artic.edu/api/v1/artworks/{id}
 ```
